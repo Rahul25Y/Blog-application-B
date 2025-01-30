@@ -1,8 +1,9 @@
 {
     "functions": {
-    "api/*": {
-      "maxDuration": 60
-    }
+    "api/*": { "maxDuration": 60 }
+  },
+  "build": {
+    "maxDuration": 600
   },
     "version": 2,
     "builds": [
